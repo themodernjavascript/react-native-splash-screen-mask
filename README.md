@@ -1,6 +1,8 @@
 
 # react-native-splash-screen-mask
 
+<!--
+
 ## Getting started
 
 `$ npm install react-native-splash-screen-mask --save`
@@ -50,4 +52,4 @@ import RNSplashScreenMask from 'react-native-splash-screen-mask';
 // TODO: What to do with the module?
 RNSplashScreenMask;
 ```
-  
+-->
