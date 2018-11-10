@@ -1,0 +1,22 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "react/no-unused-state": "off",
+    "react/jsx-filename-extension": "off",
+    "react/destructuring-assignment": "disabled",
+    "react/prop-types": "ignore",
+    "import/prefer-default-export": "off",
+    "react/react-in-jsx-scope": "off",
+    "global-require": "off",
+    "react/jsx-no-bind": "off",
+    "import/named": "off",
+    "no-use-before-define": "off",
+    "no-control-regex": "off",
+    "no-restricted-syntax": "off"
+  },
+  "globals": {
+    "fetch": true,
+    "FormData": true,
+    "__DEV__": true
+  }
+}
