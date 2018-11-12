@@ -59,8 +59,8 @@ const styles = StyleSheet.create({
 |--------|--------|--------|--------|--------|
 | imageSource | any | no |  | The image (png, jpg, jpeg) splash screen |
 | navigationAction | any | no |  | Redirect callback function (can be used `react-native-router-flux` or anything else).  |
-| backgroundStyle | any | yes | `{ backgroundColor: '#fff' }` |The style of splash screen background. |
-| duration | number | yes | 4000 |Duration for loading the splash screen. |
+| backgroundStyle | any | yes | `{ backgroundColor: '#fff' }` | The style of splash screen background. |
+| duration | number | yes | 5000 (5 seconds) | Duration for loading the splash screen. |
 
 ## Wrap Up
 

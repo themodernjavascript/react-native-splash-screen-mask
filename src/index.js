@@ -4,7 +4,6 @@ import {
   Animated,
   Dimensions,
   View,
-  Text,
   StyleSheet,
 } from 'react-native';
 
@@ -17,7 +16,7 @@ type Props = {|
 
 export default class SplashScreenMask extends React.Component<Props> {
   static defaultProps = {
-    duration: 4000,
+    duration: 5000,
     backgroundStyle: { backgroundColor: '#fff' },
   };
 

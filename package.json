@@ -1,6 +1,6 @@
 {
   "name": "react-native-splash-screen-mask",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "A splash screen for react-native, It hide when application loaded. It works on iOS, Android and Window.",
   "main": "./src/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "launch",
     "ios",
     "android",
-    "react-native-splash-screen-mask",
+    "react-native-splash-screen-mask"
   ],
   "author": "Bunlong",
   "license": "MIT",
