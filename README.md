@@ -6,7 +6,7 @@ A splash screen for react-native, It hide when application loaded. It works on i
 ## Content
 
 - [Examples](#examples)
-- [Getting started](#getting-started)
+- [Installation](#installation)
 - [Props](#props)
 - [Wrap Up](#wrap-up)
 - [Contribution](#contribution)
@@ -17,7 +17,7 @@ A splash screen for react-native, It hide when application loaded. It works on i
 
 ![react-native-splash-screen-mask](./react-native-splash-screen-mask.png "react-native-splash-screen-mask")
 
-## Getting started
+## Installation
 
 `$ npm install react-native-splash-screen-mask --save`
 
