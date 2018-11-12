@@ -17,7 +17,7 @@ type Props = {|
 
 export default class SplashScreenMask extends React.Component<Props> {
   static defaultProps = {
-    duration: 3000,
+    duration: 4000,
     backgroundStyle: { backgroundColor: '#fff' },
   };
 

@@ -1,16 +1,27 @@
 {
   "name": "react-native-splash-screen-mask",
   "version": "0.0.0",
-  "description": "",
+  "description": "A splash screen for react-native, It hide when application loaded. It works on iOS, Android and Window.",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "react-native-component",
+    "react-native-splash-screen",
+    "splash-screen",
+    "splashscreen",
+    "splash",
+    "launch-screen",
+    "launchscreen",
+    "launch",
+    "ios",
+    "android",
+    "react-native-splash-screen-mask",
   ],
-  "author": "",
-  "license": "",
+  "author": "Bunlong",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
   },
@@ -21,5 +32,14 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-react": "^7.11.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/themodernjavascript/react-native-splash-screen-mask/issues"
+  },
+  "homepage": "https://github.com/themodernjavascript/react-native-splash-screen-mask",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/themodernjavascript/react-native-splash-screen-mask.git"
+  },
+  "nativePackage": true
 }
