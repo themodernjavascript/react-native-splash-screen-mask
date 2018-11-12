@@ -1,6 +1,8 @@
 
 # react-native-splash-screen-mask
 
+[![version](https://img.shields.io/npm/v/react-native-splash-screen-mask.svg?style=flat-square)](https://www.npmjs.com/package/react-native-splash-screen-mask) [![downloads](https://img.shields.io/npm/dm/react-native-splash-screen-mask.svg?style=flat-square)](https://www.npmjs.com/package/react-native-splash-screen-mask) [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](http://opensource.org/licenses/MIT).
+
 A splash screen for react-native, It hide when application loaded. It works on iOS, Android and Window.
 
 ## Content
