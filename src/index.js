@@ -16,7 +16,7 @@ type Props = {|
 
 export default class SplashScreenMask extends React.Component<Props> {
   static defaultProps = {
-    duration: 5000,
+    duration: 3000,
     backgroundStyle: { backgroundColor: '#fff' },
   };
 
@@ -43,7 +43,7 @@ export default class SplashScreenMask extends React.Component<Props> {
         const { loadingProgress } = this.state;
         Animated.timing(loadingProgress, {
           toValue: 100,
-          duration: 3000,
+          duration: this.props.duration,
           useNativeDriver: true
         }).start(this.setAnimDone);
       }

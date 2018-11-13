@@ -1,6 +1,5 @@
 import React from 'react';
 import { View, TouchableOpacity, Image } from 'react-native';
-import Icon from 'react-native-vector-icons/SimpleLineIcons';
 
 const MenuButton = ({ onPress }) => (
   <View style={styles.container}>
@@ -15,7 +14,6 @@ const MenuButton = ({ onPress }) => (
 
 const styles = {
   container: {
-    // TODO: should fix using flex
     position: 'absolute',
     height: 40,
     width: 45,

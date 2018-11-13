@@ -17,7 +17,7 @@ A splash screen for react-native, It hide when application loaded. It works on i
 
 [Examples](./examples "react-native-splash-screen-mask")
 
-![react-native-splash-screen-mask](./react-native-splash-screen-mask.png "react-native-splash-screen-mask")
+![react-native-splash-screen-mask](./react-native-splash-screen-mask.gif "react-native-splash-screen-mask")
 
 ## Installation
 
@@ -59,10 +59,10 @@ const styles = StyleSheet.create({
 
 | props | Type | Optional | Default | Description |
 |--------|--------|--------|--------|--------|
-| imageSource | any | no |  | The image (png, jpg, jpeg) splash screen |
+| imageSource | any | no |  | The image (png, jpg, jpeg, gif) splash screen. |
 | navigationAction | any | no |  | Redirect callback function (can be used `react-native-router-flux` or anything else).  |
 | backgroundStyle | any | yes | `{ backgroundColor: '#fff' }` | The style of splash screen background. |
-| duration | number | yes | 5000 (5 seconds) | Duration for loading the splash screen. |
+| duration | number | yes | 3000 (3 seconds) | Duration for loading the splash screen. |
 
 ## Wrap Up
 

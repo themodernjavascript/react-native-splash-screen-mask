@@ -12,7 +12,7 @@ export default class SplashScreen extends Component {
         imageSource={IMAGE}
         navigationAction={() => Actions.homeScene()}
         backgroundStyle={styles.backgroundStyle}
-        duration={7000}
+        duration={3000}
       />
     );
   }

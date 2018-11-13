@@ -8,7 +8,7 @@ export default class Home extends Component {
       <View>
         <Header />
         <View style={styles.container}>
-          <Text style={styles.welcome}>Welcome to Bunlong GitHub Info</Text>
+          <Text style={styles.welcome}>Welcome to react-native-splash-screen-mask</Text>
         </View>
       </View>
     );
