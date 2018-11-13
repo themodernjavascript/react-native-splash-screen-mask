@@ -70,9 +70,9 @@ If you think any of the `react-native-splash-screen-mask` can be improved, pleas
 
 ## Contribution
 
-We'd love to have your helping hand on contributions to `react-native-splash-screen-mask` by forking and sending a pull request!
+We'd love to have your helping hand on contributions to `react-native-splash-screen-mask` by forking and sending a pull request.
 
-Your contributions are heartily ♡ welcome, recognized and appreciated. (✿◠‿◠)
+Your contributions are heartily ♡ welcome, recognized and appreciated.
 
 How to contribute:
 
